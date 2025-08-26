@@ -17,7 +17,7 @@ Collection of MySQL and PostgreSQL database projects demonstrating various aspec
 - Basic SQL knowledge
 
 ## Installation
-1. Install PostgreSQL
+1. Install My SQL & PostgreSQL
 2. Clone repository
 3. Run setup scripts
 
@@ -44,3 +44,10 @@ INSERT INTO table_name VALUES (...);
 
 -- Basic Queries
 SELECT * FROM table_name;
+
+
+## Each Folder has project query and its respective output in pdf
+
+
+
+
