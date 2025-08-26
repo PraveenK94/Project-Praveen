@@ -13,7 +13,7 @@ Collection of MySQL and PostgreSQL database projects demonstrating various aspec
 
 ## Technical Requirements
 - PostgreSQL 12+
-- psql command-line tool
+- Mysql command-line tool
 - Basic SQL knowledge
 
 ## Installation
